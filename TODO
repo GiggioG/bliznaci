@@ -1,0 +1,6 @@
+- use regexes
+    -tabs are equal to spaces
+- ul
+    -'*'
+"Error: Client network socket disconnected before secure TLS connection was established"
+download non-gemini files

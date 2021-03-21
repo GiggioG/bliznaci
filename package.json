@@ -1,0 +1,20 @@
+{
+  "name": "bliznaci",
+  "version": "1.0.0",
+  "description": "a gemini:// browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gemini",
+    "protocol",
+    "browser"
+  ],
+  "author": "Gigo_G",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "pem": "^1.14.4"
+  }
+}
